@@ -1,5 +1,3 @@
-Here's the raw README content — select all and copy:
-
 📊 Sales Performance Analytics Dashboard
 
 End-to-end sales analytics project — Python EDA, SQL analysis, and a 3-page interactive Power BI dashboard built on the Sample Superstore dataset to uncover regional performance, discount impact, and profitability drivers.
