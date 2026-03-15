@@ -1,0 +1,5 @@
+Region,TotalSales,TotalProfit,TotalOrders,AvgMargin
+West,725458.0,108418.0,1611,21.9
+East,678781.0,91523.0,1401,16.7
+Central,501240.0,39706.0,1175,-10.4
+South,391722.0,46749.0,822,16.4
